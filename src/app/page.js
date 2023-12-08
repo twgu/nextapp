@@ -1,6 +1,4 @@
-import Image from "next/image";
-
-export default function Home() {
+export default function App() {
   return (
     <>
       <h2>Welcome</h2>

@@ -1,7 +1,7 @@
 * 개발환경
 - node.js     (v20.10.0)
 - npm install -g npm@10.2.5
-- npx create-next-app@latest .     (v14.0.3)
+- npx create-next-app@latest .
  >>> TypeScript      [No]
  >>> ESLint          [Yes]
  >>> Tailwind CSS    [Yes]
